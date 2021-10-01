@@ -1,0 +1,6 @@
+item_nev = input('Add meg a tárgy nevét: ')
+item_fajta = input('Add meg a tárgy fajtáját: ')
+item_darab = int(input('Add meg mennyi fejlesző kell hozzá: '))
+item_fajta = int(input('Add meg mennyi fajta fejlesző kell hozzá: '))
+szazalek = float(input('Add meg mennyi százalék egyély van a sikerességhez: '))
+print('A tárgy neve:'  ,item_nev, '/A tárgy fajtája:' ,item_fajta, '/A fejlesztő tárgy mennyiség ami kell hozzá:' ,item_darab, '/Mennyi fajta fejlesztő kell hozzá' ,item_fajta, '/S hogy mennyi százalék egyély van a sikerességre' ,szazalek,)
