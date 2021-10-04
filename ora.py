@@ -42,3 +42,12 @@ first_number = int(input('Enter the first number '))
 second_number = int(input('Enter the second number '))
 
 print( first_number / second_number )
+
+for i in range(1000):
+    print(i)
+
+for i in range(100,800):
+    print(i)
+    
+for i in range(1,11):
+    print(i)
